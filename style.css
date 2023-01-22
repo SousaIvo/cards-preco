@@ -309,11 +309,13 @@ li:last-child::before {
 @media only screen  and (max-width: 620px) {
     .plan {
         padding: 20px;
+
+
     }
 
     #main-container{
         padding: 20px;
-        align-items: center;
+        width: 100%;
     }
 
     .button {
