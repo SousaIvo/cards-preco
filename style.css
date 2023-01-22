@@ -313,6 +313,7 @@ li:last-child::before {
 
     #main-container{
         padding: 20px;
+        align-items: center;
     }
 
     .button {
